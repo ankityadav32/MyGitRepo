@@ -7,8 +7,9 @@ sysout("trying switching branch");
 
 sysout("solving conflict");
 
-public static mymethod{
+public static mymethod{sysout();
 }
+
 
 }
 }
