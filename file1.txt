@@ -7,7 +7,7 @@ sysout("trying switching branch");
 
 sysout("solving conflict");
 
-public static mymethod{sysout();
+public static mymethod{sysout("change1");
 }
 
 
